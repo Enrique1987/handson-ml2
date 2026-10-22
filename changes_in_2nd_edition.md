@@ -120,4 +120,4 @@ Migrating from TensorFlow 1.x to 2.0 is similar to migrating from Python 2 to 3.
 * You can run TF 1.x code in TF 2.0 by starting your program with `import tensorflow.compat.v1 as tf` and `tf.disable_v2_behavior()`.
 * Once you are ready to make the jump, you can run the `tf_upgrade_v2` [upgrade script](https://www.tensorflow.org/beta/guide/upgrade).
 
-For more details on migration, checkout TensorFlow's [Migration Guide](https://www.tensorflow.org/beta/guide/migration_guide).
+For more details on migration, checkout TensorFlow's [Migration Guide](https://www.tensorflow.org/guide/migrate).
